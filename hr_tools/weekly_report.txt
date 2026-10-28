@@ -1,0 +1,8 @@
+EmpID,Name,Productivity,Category
+E101,Ali,0.50,Satisfactory
+E102,Sara,0.29,Require further assistance
+E103,Rahul,0.90,high performer
+E104,Maya,0.40,Require further assistance
+E105,John,0.66,Satisfactory
+E106,Noor,0.89,high performer
+E107,Tom,0.40,Require further assistance
